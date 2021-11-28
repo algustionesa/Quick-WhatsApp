@@ -7,7 +7,7 @@ This is a smart way to quickly send a message to someone via WhatApp without hav
 - iPhone with iOS 12.0 or later
 - [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334) installed on iPhone with iOS 12.0 or later.
 - [WhatsApp Messenger](https://apps.apple.com/us/app/whatsapp-messenger/id310633997) or [WhatsApp Business](https://apps.apple.com/us/app/whatsapp-business/id1386412985) installed on iPhone with iOS 12.0 or later.
-
+- Mac
 ## Quick Version
 For you, who want to instantly use the shortcut, just grab the link below and add it to your Shortcuts library.
 
